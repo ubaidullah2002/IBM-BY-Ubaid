@@ -1,0 +1,16 @@
+# requirements.txt
+streamlit
+python-dotenv
+groq
+python-docx
+PyPDF2
+python-pptx
+pandas
+plotly
+pyyaml
+python-multipart
+datetime
+markdown
+reportlab
+imgkit
+Pillow
